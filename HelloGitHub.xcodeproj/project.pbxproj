@@ -113,7 +113,6 @@
 			isa = PBXGroup;
 			children = (
 				31E182AB18C31ADF0011B103 /* AppDelegate.h */,
-				31E182AC18C31ADF0011B103 /* AppDelegate.m */,
 				31E182AE18C31ADF0011B103 /* Main.storyboard */,
 				31E182B118C31ADF0011B103 /* ViewController.h */,
 				31E182B218C31ADF0011B103 /* ViewController.m */,
@@ -126,6 +125,7 @@
 		31E182A318C31ADF0011B103 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				31E182AC18C31ADF0011B103 /* AppDelegate.m */,
 				31E182A418C31ADF0011B103 /* HelloGitHub-Info.plist */,
 				31E182A518C31ADF0011B103 /* InfoPlist.strings */,
 				31E182A818C31ADF0011B103 /* main.m */,
